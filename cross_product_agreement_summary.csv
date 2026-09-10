@@ -1,0 +1,10 @@
+metric,value,interpretation
+Mean annual IoU,0.884,Annual mangrove extent overlap
+Mean annual Dice/F1,0.939,Annual map similarity
+Mean Cohen kappa,0.927,Chance-corrected annual agreement
+Mean overall agreement pct,98.04,All common pixels
+Extent trajectory Pearson r,0.849,Long-term annual trajectories
+Annual increment Pearson r,-0.154,Short-term change timing
+Annual increment p,0.433,Short-term change timing
+Direction agreement pct,53.6,Year-to-year increase/decrease
+All-year persistent consensus core ha,20107,Mangrove every year in both products

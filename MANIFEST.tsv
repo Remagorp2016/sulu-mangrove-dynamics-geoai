@@ -1,0 +1,53 @@
+path	description	redistribution_status
+.github/ISSUE_TEMPLATE/reproducibility.yml	Repository metadata/documentation	MIT unless stated otherwise
+.gitignore	Repository metadata/documentation	MIT unless stated otherwise
+.zenodo.json	Repository metadata/documentation	MIT unless stated otherwise
+CHANGELOG.md	Repository metadata/documentation	MIT unless stated otherwise
+CITATION.cff	Repository metadata/documentation	MIT unless stated otherwise
+CODEBOOK.md	Repository metadata/documentation	MIT unless stated otherwise
+CONTRIBUTING.md	Repository metadata/documentation	MIT unless stated otherwise
+DATA_LICENSE.md	Licensing/attribution documentation	Documentation
+LICENSE	Licensing/attribution documentation	Documentation
+README.md	Repository metadata/documentation	MIT unless stated otherwise
+REPRODUCIBILITY.md	Repository metadata/documentation	MIT unless stated otherwise
+THIRD_PARTY_DATA.md	Licensing/attribution documentation	Documentation
+config/pipeline.yml	Repository metadata/documentation	MIT unless stated otherwise
+data/README.md	Repository metadata/documentation	MIT unless stated otherwise
+data/derived/cross_product_agreement_summary.csv	Author-created derived analytical table	CC BY 4.0
+data/derived/hotspot_summary.csv	Author-created derived analytical table	CC BY 4.0
+data/derived/mangrove_extent_change_summary.csv	Author-created derived analytical table	CC BY 4.0
+data/source_manifest.csv	Repository metadata/documentation	MIT unless stated otherwise
+docs/DATA_AVAILABILITY_STATEMENT.md	Repository metadata/documentation	MIT unless stated otherwise
+docs/GITHUB_SETUP.md	Repository metadata/documentation	MIT unless stated otherwise
+docs/MANUSCRIPT_ALIGNMENT.md	Repository metadata/documentation	MIT unless stated otherwise
+docs/RELEASE_CHECKLIST.md	Repository metadata/documentation	MIT unless stated otherwise
+docs/ZENODO_SETUP.md	Repository metadata/documentation	MIT unless stated otherwise
+environment.yml	Repository metadata/documentation	MIT unless stated otherwise
+pyproject.toml	Repository metadata/documentation	MIT unless stated otherwise
+requirements.txt	Repository metadata/documentation	MIT unless stated otherwise
+results/figures/Stage08_Block_Size_Sensitivity.png	Author-created analytical figure	CC BY 4.0
+results/figures/Stage08_Gain_XGB_SHAP_Importance.png	Author-created analytical figure	CC BY 4.0
+results/figures/Stage08_Loss_XGB_SHAP_Importance.png	Author-created analytical figure	CC BY 4.0
+results/figures/Stage08_Random_vs_Spatial_PR_AUC.png	Author-created analytical figure	CC BY 4.0
+results/figures/Stage10_Municipality_High_Loss_Screening.png	Author-created analytical figure	CC BY 4.0
+results/tables/Stage08_Block_Sensitivity.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/Stage08_Model_Performance.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/Stage08_Predictor_and_Sampling_QA.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/Stage08_Spatial_Permutation_Importance.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/Stage08_XGB_SHAP_Importance.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/Stage10_Municipality_Screening.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/cross_product_agreement_summary.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/hotspot_summary.csv	Author-created derived analytical table	CC BY 4.0
+results/tables/mangrove_extent_change_summary.csv	Author-created derived analytical table	CC BY 4.0
+scripts/gee/00_cgmd_feasibility_audit_legacy.js	Reproducibility analysis/export code	MIT
+scripts/gee/01_export_cgmd_19m_stack.js	Reproducibility analysis/export code	MIT
+scripts/gee/02_export_predictor_stack.js	Reproducibility analysis/export code	MIT
+scripts/python/01_cross_product_consensus.py	Reproducibility analysis/export code	MIT
+scripts/python/02_spatial_hotspots.py	Reproducibility analysis/export code	MIT
+scripts/python/03_explainable_geoai.py	Reproducibility analysis/export code	MIT
+scripts/python/04_make_release_figures.py	Reproducibility analysis/export code	MIT
+scripts/python/_common.py	Reproducibility analysis/export code	MIT
+zenodo/DESCRIPTION.md	Repository metadata/documentation	MIT unless stated otherwise
+zenodo/KEYWORDS.txt	Repository metadata/documentation	MIT unless stated otherwise
+zenodo/METADATA_COPY_PASTE.md	Repository metadata/documentation	MIT unless stated otherwise
+zenodo/RELEASE_NOTES_v1.0.0.md	Repository metadata/documentation	MIT unless stated otherwise

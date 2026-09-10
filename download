@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# External/raw geospatial data: DO NOT COMMIT
+/data/external/
+/data/raw/
+GMW-*_v4112.zip
+GMW_N??E???_v4112_mng_ext.tif
+*GMW*raw*.tif
+
+# Large regenerated intermediates
+/data/intermediate/
+*.aux.xml
+*.ovr
+*.vrt
+
+# Model caches
+*.joblib
+*.pkl
+
+# Temporary outputs
+/tmp/
+/scratch/

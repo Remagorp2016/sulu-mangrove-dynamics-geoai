@@ -1,0 +1,10 @@
+item,value,decision
+Uploaded predictor bands,16,Audited
+Population bands,3,Excluded: failed internal temporal plausibility check
+water_change_abs_pct,1,Excluded: contained invalid -128 sentinel values / overlap with outcome period
+built_fraction_2020 and change,2,Excluded from primary model to reduce temporal leakage
+Final primary predictors,8,"elevation_m, slope_deg, water_occurrence_pct, water_seasonality_months, rain_mean_annual_mm, rain_interannual_cv_pct, rain_trend_mm_per_year, built_fraction_2000"
+Loss samples,22118,569 event cells
+Gain samples,19897,1632 event cells
+Gain candidate buffer,500 m,Retained >99% of high-confidence observed gain cells
+Primary spatial CV block,5 km,"Sensitivity also assessed at 3, 7.5, and 10 km"

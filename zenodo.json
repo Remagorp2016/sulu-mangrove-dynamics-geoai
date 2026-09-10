@@ -1,0 +1,28 @@
+{
+  "creators": [
+    {
+      "name": "Adju, Fadzlur-Nijar A.",
+      "affiliation": "Mindanao State University-Sulu",
+      "type": "ProjectMember",
+      "orcid": "0009-0003-1865-7596"
+    }
+  ],
+  "title": "Sulu Mangrove Dynamics GeoAI: reproducibility code and derived results",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "mangrove dynamics",
+    "Global Mangrove Watch",
+    "Continuous Global Mangrove Dynamics",
+    "GeoAI",
+    "explainable machine learning",
+    "SHAP",
+    "spatial cross-validation",
+    "environmental management",
+    "Sulu",
+    "Philippines"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}

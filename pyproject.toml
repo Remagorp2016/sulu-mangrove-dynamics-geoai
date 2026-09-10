@@ -1,0 +1,14 @@
+[project]
+name = "sulu-mangrove-dynamics-geoai"
+version = "1.0.0"
+description = "Reproducibility workflow for cross-product mangrove dynamics and interpretable spatial modelling in Sulu, Philippines."
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [
+  {name = "Fadzlur-Nijar A. Adju", email = "fadzlur-nijar.adju@msusulu.edu.ph"}
+]
+keywords = ["mangroves", "GeoAI", "spatial validation", "SHAP", "Sulu", "Philippines"]
+
+[project.urls]
+Repository = "https://github.com/Remagorp2016/sulu-mangrove-dynamics-geoai"

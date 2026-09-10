@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Sulu Mangrove Dynamics GeoAI: reproducibility code and derived results"
+message: "If you use this software or its derived results, please cite the Zenodo release DOI and the associated article when available."
+type: software
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/Remagorp2016/sulu-mangrove-dynamics-geoai"
+authors:
+  - family-names: "Adju"
+    given-names: "Fadzlur-Nijar A."
+    affiliation: "Mindanao State University-Sulu"
+    email: "fadzlur-nijar.adju@msusulu.edu.ph"
+    orcid: "https://orcid.org/0009-0003-1865-7596"
+abstract: >-
+  Reproducibility code and lightweight derived results for an uncertainty-aware analysis
+  of three decades of mangrove persistence, turnover, and expansion in Sulu Province,
+  Philippines. The workflow harmonizes Continuous Global Mangrove Dynamics and Global
+  Mangrove Watch v4.1.12, quantifies cross-product uncertainty, identifies consensus
+  spatial hotspots, and evaluates interpretable machine-learning models with spatially
+  blocked validation for environmental-management screening.
+keywords:
+  - mangrove dynamics
+  - Global Mangrove Watch
+  - Continuous Global Mangrove Dynamics
+  - GeoAI
+  - explainable machine learning
+  - SHAP
+  - spatial cross-validation
+  - environmental management
+  - Sulu
+  - Philippines

@@ -1,0 +1,40 @@
+project:
+  name: sulu-mangrove-dynamics-geoai
+  version: 1.0.0
+  baseline_year: 1995
+  common_end_year: 2023
+  gmw_end_year: 2025
+
+paths:
+  external_dir: data/external
+  output_dir: outputs
+  cgmd_stack: data/external/Sulu_CGMD_1995_2023_19Muni_OPTIMIZED.tif
+  predictors: data/external/Sulu_Mangrove_Driver_Predictors_90m.tif
+  municipalities: data/external/Sulu_Municipal_Boundaries_19_CORRECTED.geojson
+  gmw_tiles:
+    - data/external/GMW_N06E119_v4112_mng_ext.tif
+    - data/external/GMW_N06E120_v4112_mng_ext.tif
+    - data/external/GMW_N06E121_v4112_mng_ext.tif
+    - data/external/GMW_N07E120_v4112_mng_ext.tif
+    - data/external/GMW_N07E121_v4112_mng_ext.tif
+
+analysis:
+  primary_block_m: 5000
+  block_sensitivity_m: [3000, 5000, 7500, 10000]
+  hotspot_grid_m: [1000, 2000, 3000]
+  hotspot_alpha: 0.05
+  hotspot_permutations: 999
+  gain_candidate_buffer_m: 500
+  random_seed: 77
+  n_splits: 5
+
+model:
+  predictors:
+    - elevation_m
+    - slope_deg
+    - water_occurrence_pct
+    - water_seasonality_months
+    - rain_mean_annual_mm
+    - rain_interannual_cv_pct
+    - rain_trend_mm_per_year
+    - built_fraction_2000

@@ -1,0 +1,15 @@
+numpy>=1.26,<3
+pandas>=2.2,<3
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+xgboost>=2.1,<4
+shap>=0.46,<1
+matplotlib>=3.9,<4
+geopandas>=1.0,<2
+shapely>=2.0,<3
+rasterio>=1.4,<2
+pyproj>=3.6,<4
+libpysal>=4.12,<5
+esda>=2.6,<3
+PyYAML>=6,<7
+joblib>=1.4,<2
