@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: "Sulu Mangrove Dynamics GeoAI: reproducibility code and derived results"
 message: "If you use this software or its derived results, please cite the Zenodo release DOI and the associated article when available."
 type: software
-version: "1.0.0"
+version: "1.0.1"
 license: MIT
 repository-code: "https://github.com/Remagorp2016/sulu-mangrove-dynamics-geoai"
 authors:
