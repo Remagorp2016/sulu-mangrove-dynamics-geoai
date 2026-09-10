@@ -1,9 +1,0 @@
-dataset,product_or_asset,time_coverage,native_scale,provider,official_or_catalog_url,use_and_redistribution_note
-Global Mangrove Watch v4.1.12,GMW annual extent,1985-2025,30 m,JAXA EORC / Global Mangrove Watch,https://www.eorc.jaxa.jp/ALOS/en/dataset/gmw_e.htm,Five Sulu tiles; raw files not redistributed; follow provider Terms of Use
-Continuous Global Mangrove Dynamics,CGMD-Extent30,1984-2023,30 m,Google Earth Engine asset,https://developers.google.com/earth-engine/datasets/catalog/projects_mangrovedatahub2_assets_CGMD-Extent30,Study-area extraction generated with GEE; check catalog citation/terms
-geoBoundaries,PHL ADM3,current asset used in analysis,municipality,geoBoundaries / sat-io GEE mirror,https://www.geoboundaries.org/,Used to construct 19-municipality Sulu union; retain source attribution
-NASADEM,NASA/NASADEM_HGT/001,static,~30 m,NASA / Google Earth Engine,https://developers.google.com/earth-engine/datasets/catalog/NASA_NASADEM_HGT_001,Elevation and slope
-JRC Global Surface Water,JRC/GSW1_4/GlobalSurfaceWater,1984-2021 summary layers,30 m,European Commission JRC / Google Earth Engine,https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_GlobalSurfaceWater,Hydroperiod proxies
-CHIRPS Daily,UCSB-CHG/CHIRPS/DAILY,1995-2023,0.05 degree,UCSB CHG / Google Earth Engine,https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY,"Mean annual rainfall, CV, linear trend"
-GHSL built surface,JRC/GHSL/P2023A/GHS_BUILT_S,2000 and 2020,100 m,European Commission JRC / Google Earth Engine,https://developers.google.com/earth-engine/datasets/catalog/JRC_GHSL_P2023A_GHS_BUILT_S,Only 2000 baseline retained in primary model
-WorldPop,WorldPop/GP/100m/pop,2000 and 2020,~100 m,WorldPop / Google Earth Engine,https://developers.google.com/earth-engine/datasets/catalog/WorldPop_GP_100m_pop,Exported for QA but excluded from primary model after plausibility check
