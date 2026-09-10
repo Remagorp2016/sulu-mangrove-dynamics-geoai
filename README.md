@@ -7,7 +7,7 @@
 **Affiliation:** Mindanao State University-Sulu, Jolo, Sulu, Philippines  
 **Email:** fadzlur-nijar.adju@msusulu.edu.ph  
 **ORCID:** https://orcid.org/0009-0003-1865-7596  
-**Version:** 1.0.0
+**Version:** 1.0.1
 
 This repository contains the analysis code, Google Earth Engine export scripts, configuration files, derived summary tables, and manuscript-ready analytical figures used for an uncertainty-aware assessment of mangrove persistence, loss, gain, spatial clustering, and environmental correlates across Sulu Province, Philippines.
 
