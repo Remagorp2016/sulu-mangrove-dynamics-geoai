@@ -1,6 +1,18 @@
 # Changelog
 
 All notable changes to this reproducibility repository are documented here.
+## [1.0.1] - 2026-09-10
+
+### Changed
+- Updated release metadata for Zenodo archival.
+- Added author ORCID metadata.
+- Restored the intended reproducible repository directory structure.
+- Archived the reproducibility release on Zenodo.
+
+### DOI
+- https://doi.org/10.5281/zenodo.22690576
+
+No scientific results, model outputs, or manuscript conclusions were changed.
 
 ## [1.0.0]
 
