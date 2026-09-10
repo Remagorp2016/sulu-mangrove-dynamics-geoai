@@ -1,4 +1,5 @@
 # Sulu Mangrove Dynamics GeoAI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22690576.svg)](https://doi.org/10.5281/zenodo.22690576)
 
 **Reproducibility repository for:**  
 *Three decades of mangrove persistence and turnover in Sulu, Philippines: Cross-product uncertainty and interpretable spatial modelling for management prioritization*
@@ -122,8 +123,13 @@ See `REPRODUCIBILITY.md` for details and interpretation safeguards.
 
 ## Citation
 
-GitHub will render a citation from `CITATION.cff`. A DOI will be minted from the tagged GitHub release through Zenodo. After Zenodo publishes the first release, cite the DOI shown on the Zenodo record.
+The archived reproducibility release for this study is available on Zenodo:
 
+**Adju, Fadzlur-Nijar A. (2026). Sulu Mangrove Dynamics GeoAI: reproducibility code and derived results (Version 1.0.1). Zenodo. https://doi.org/10.5281/zenodo.22690576**
+
+DOI: **10.5281/zenodo.22690576**
+
+When the associated journal article is published, please cite both the article and this reproducibility archive.
 ## License
 
 - Analysis code: **MIT License** (`LICENSE`).
